@@ -33,7 +33,7 @@ Lifelong Learner.
 
 ## 🤝 Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-%40mrafifar_-E4405F?logo=instagram)](https://www.instagram.com/mrafifar_/)
-[![GitHub](https://img.shields.io/badge/GitHub-goonesmile-181717?logo=github)](https://github.com/goonesmile)
+[![GitHub](https://img.shields.io/badge/GitHub-goonesmile-181717?logo=github)](https://github.com/sieraaaaa)
 
 ## 👥 Collaborative Projects
 Here are some collaborative projects I have participated in:
