@@ -21,3 +21,10 @@ Lifelong Learner.
 <a href="https://www.instagram.com/mrafifar_/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
+
+### <summary><strong>Collaborative Projects</strong></summary>
+Here are some collaborative projects I have participated in:
+
+- [Information System Festival UNSRI 2024](https://github.com/NicolausOwen/Sifest2024) - Participated as backend developer
+- [Nama Proyek 2](https://github.com/pemilik-repo/nama-repo) - Deskripsi singkat kontribusi Anda
+- [Nama Proyek 3](https://github.com/pemilik-repo/nama-repo) - Deskripsi singkat kontribusi Anda
