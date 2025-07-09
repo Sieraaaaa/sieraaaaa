@@ -1,30 +1,42 @@
-# <summary><strong>Hi there :wave: , I'm Rafif!</strong></summary>
+# Hi there 👋, I'm Rafif!
+
 Lifelong Learner.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
+## 🛠️ Tech Stack & Tools:
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+  <!-- IDEs -->
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <!-- Web Server -->
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:rafif180507@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: He/Him. </br>
-    - :game_die: Gaming and programming are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/mrafifar_/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
+## 🚀 About Me:
+- ⌨️ I'm currently learning Data Analytics  
+- 💬 Ask me about anything  
+- 📫 How to reach me: [Email me!](mailto:rafif180507@gmail.com)  
+- 🌈 Pronouns: He/Him  
+- 🎮 Gaming and programming are part of me  
 
-### <summary><strong>Collaborative Projects</strong></summary>
+## 🤝 Let's Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-%40mrafifar_-E4405F?logo=instagram)](https://www.instagram.com/mrafifar_/)
+[![GitHub](https://img.shields.io/badge/GitHub-goonesmile-181717?logo=github)](https://github.com/goonesmile)
+
+## 👥 Collaborative Projects
 Here are some collaborative projects I have participated in:
 
-- [Information System Festival UNSRI 2024](https://github.com/NicolausOwen/Sifest2024) - Participated as backend developer
-- [Nama Proyek 2](https://github.com/pemilik-repo/nama-repo) - Deskripsi singkat kontribusi Anda
-- [Nama Proyek 3](https://github.com/pemilik-repo/nama-repo) - Deskripsi singkat kontribusi Anda
+- [Information System Festival UNSRI 2024](https://github.com/NicolausOwen/Sifest2024) - Participated as backend developer  
+- [INTEL WEBSITE](https://github.com/Apriansyahwp769/INTEL-WEB) - Participated as backend developer    
