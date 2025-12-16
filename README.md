@@ -39,4 +39,5 @@ Lifelong Learner.
 Here are some collaborative projects I have participated in:
 
 - [Information System Festival UNSRI 2024](https://github.com/NicolausOwen/Sifest2024) - Participated as fullstack developer  
-- [INTEL WEBSITE](https://github.com/Apriansyahwp769/INTEL-WEB) - Participated as backend developer    
+- [INTEL WEBSITE](https://github.com/Apriansyahwp769/INTEL-WEB) - Participated as backend developer
+- [OpenLibraryAPI](https://github.com/NicolausOwen/OpenLibrary) - Participated as Frontend developer    
